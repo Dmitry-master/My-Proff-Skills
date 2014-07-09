@@ -13,11 +13,15 @@
     </ul>
   <li>JavaScript</li>
     <ul>
-      <li>native JS</li>
+      <li>Native JS</li>
       <li> jQuery / jQuery UI</li>
-      <li>backbone.js</li>
-      <li>angular.js</li>
-      <li>knockout.js</li>
+      <li>Backbone.js</li>
+      <li>Angular.js</li>
+      <li>Knockout.js</li>
+      <li>Marionettejs</li>
+      <li>Chaplin.js</li>
+      <li>Require.js</li>
+      <li>Lo-Dash</li>
       <li>Grunt.js</li>
     </ul>
   <li>Git / SVN</li>
